@@ -1,4 +1,4 @@
-```c
+```
 #inclde<stdio.h>
 int main(){
   
